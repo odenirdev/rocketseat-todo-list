@@ -1,0 +1,12 @@
+.wrapper {
+  padding: 0 1rem;
+
+  display: flex;
+  justify-content: center;
+
+  background-color: var(--gray-700);
+}
+
+.wrapper img {
+  margin: 3rem 0 5rem;
+}

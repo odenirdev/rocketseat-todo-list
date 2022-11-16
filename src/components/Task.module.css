@@ -1,0 +1,40 @@
+.task__wrapper {
+  background-color: var(--gray-500);
+  color: var(--gray-100);
+
+  display: grid;
+  grid-template-columns: 3rem 1fr 3rem;
+  align-items: center;
+
+  padding: 1rem;
+
+  border-radius: 8px;
+}
+
+.task-completed__wrapper {
+  color: var(--gray-300);
+  text-decoration: line-through;
+}
+
+.task__wrapper input[type="checkbox"] {
+  zoom: 1.5;
+}
+
+.task__wrapper button {
+  padding: 0.5rem;
+  font-size: 1.3rem;
+  background-color: transparent;
+
+  transition: 0.2s;
+}
+
+.task__wrapper button:hover {
+  color: var(--danger);
+  background-color: var(--gray-400);
+}
+
+.task__wrapper > header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
