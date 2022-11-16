@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=Rockeseat&message=Ignite&color=F7DD43&labelColor=202024" alt="" />
-    <img src="https://img.shields.io/static/v1?label=Trilha&message=React&color=F7DD43&labelColor=202024" alt="" />
-    <img src="https://img.shields.io/static/v1?label=Desafio&message=1&color=F7DD43&labelColor=202024" alt="" />
-    <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=F7DD43&labelColor=202024" alt="License"></a>
+    <img src="https://img.shields.io/static/v1?label=Rockeseat&message=Ignite&color=2577a7&labelColor=202024" alt="" />
+    <img src="https://img.shields.io/static/v1?label=Trilha&message=React&color=2577a7&labelColor=202024" alt="" />
+    <img src="https://img.shields.io/static/v1?label=Desafio&message=1&color=2577a7&labelColor=202024" alt="" />
+    <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=2577a7&labelColor=202024" alt="License"></a>
 </p>
 
 ## 💻 Projeto
